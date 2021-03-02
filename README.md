@@ -3,7 +3,7 @@
 
 # Class Slides
 
-Intro [slide](https://info-ruc.github.io/web21/web@21.pdf) 
+Intro [slide](https://info-ruc.github.io/web21/Web@21.pdf) 
 
 Env [slide](https://info-ruc.github.io/web21/env.pdf) 
 
