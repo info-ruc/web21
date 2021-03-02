@@ -16,5 +16,5 @@ Dataset Building [slide](https://info-ruc.github.io/web21/ds.pdf)
 
 # Class Project 
 
-Please visit: [github.com/info-ruc/web20projects](https://github.com/info-ruc/web20projects)
+Please visit: [github.com/info-ruc/web21projects](https://github.com/info-ruc/web21projects)
 
