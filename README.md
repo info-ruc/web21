@@ -9,7 +9,7 @@ Env [slide](https://info-ruc.github.io/web21/env.pdf)
 
 PyTorch [slide](https://info-ruc.github.io/web21/pytorch.pdf) [ipynb](https://github.com/info-ruc/web21/blob/master/pytorch-tut.ipynb)
 
-Matlab [slide](https://info-ruc.github.io/web21/matlab.pdf) [ipynb](https://github.com/info-ruc/web21/blob/master/matlab-tut.mlx)
+Matlab [slide](https://info-ruc.github.io/web21/matlab.pdf) [mlx](https://github.com/info-ruc/web21/blob/master/matlab-tut.mlx)
 
 Dataset Building [slide](https://info-ruc.github.io/web21/ds.pdf) 
 
