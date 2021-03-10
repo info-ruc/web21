@@ -11,7 +11,7 @@ PyTorch [slide](https://info-ruc.github.io/web21/pytorch.pdf) [ipynb](https://gi
 
 Matlab [slide](https://info-ruc.github.io/web21/matlab.pdf) [zip](https://github.com/info-ruc/web21/blob/master/deeplearning_course_files.zip)
 
-Neural Network [slide](https://info-ruc.github.io/web21/nn.pdf) [ipynb](https://github.com/info-ruc/web21/blob/master/pytorch-tut.ipynb) [mlx](https://github.com/info-ruc/web21/blob/master/lr_network.mlx)
+Neural Network [slide](https://info-ruc.github.io/web21/nn.pdf) [ipynb](https://github.com/info-ruc/web21/blob/master/nn.ipynb) [mlx](https://github.com/info-ruc/web21/blob/master/lr_network.mlx)
 
 # Class Tasks 
 
