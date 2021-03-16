@@ -13,6 +13,8 @@ Matlab [slide](https://info-ruc.github.io/web21/matlab.pdf) [zip](https://github
 
 Neural Network [slide](https://info-ruc.github.io/web21/nn.pdf) [ipynb](https://github.com/info-ruc/web21/blob/master/nn.ipynb) [mlx](https://github.com/info-ruc/web21/blob/master/lr_network.mlx)
 
+Convolutional Neural Network - I [slide](https://info-ruc.github.io/web21/cnn1.pdf) [ipynb](https://github.com/info-ruc/web21/blob/master/cnn1.ipynb) [mlx](https://github.com/info-ruc/web21/blob/master/cnn1.mlx)
+
 # Class Tasks 
 
 Please visit: [github.com/info-ruc/web21projects](https://github.com/info-ruc/web21projects/blob/main/webtasks.md)
