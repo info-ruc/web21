@@ -17,6 +17,8 @@ Convolutional Neural Network - I [slide](https://info-ruc.github.io/web21/cnn1.p
 
 Convolutional Neural Network - II [slide](https://info-ruc.github.io/web21/cnn2.pdf) [ipynb](https://github.com/info-ruc/web21/blob/master/cnn2.ipynb) [mlx](https://github.com/info-ruc/web21/blob/master/cnn2.mlx)
 
+DL Experiments [slide](https://info-ruc.github.io/web21/dl_exp.pdf) [mlx](https://github.com/info-ruc/web21/blob/master/dl_exp.mlx)
+
 # Class Tasks 
 
 Please visit: [github.com/info-ruc/web21projects](https://github.com/info-ruc/web21projects/blob/main/webtasks.md)
