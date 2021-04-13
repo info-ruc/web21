@@ -21,7 +21,7 @@ DL Experiments [slide](https://info-ruc.github.io/web21/dl_exp.pdf) [mlx](https:
 
 Recurrent Neural Network [slide](https://info-ruc.github.io/web21/rnn.pdf) [ipynb](https://github.com/info-ruc/web21/blob/master/rnn.ipynb) [mlx](https://github.com/info-ruc/web21/blob/master/rnn.mlx)
 
-
+Text Classification with RNN/LSTM [slide](https://info-ruc.github.io/web21/lstm.pdf) [zip](https://github.com/info-ruc/web21/blob/master/lstm.zip)
 # Class Tasks 
 
 Please visit: [github.com/info-ruc/web21projects](https://github.com/info-ruc/web21projects/blob/main/webtasks.md)
