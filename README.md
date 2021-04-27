@@ -25,6 +25,9 @@ Text Classification with RNN/LSTM [slide](https://info-ruc.github.io/web21/lstm.
 
 MultiLabel Classification with GRU [slide](https://info-ruc.github.io/web21/multilabel.pdf) [mlx](https://github.com/info-ruc/web21/blob/master/MultiLabelTextClassificationUsingDeepLearningExample.mlx)
 
+AutoEncoder [slide](https://info-ruc.github.io/web21/ae.pdf) [rar](https://github.com/info-ruc/web21/blob/master/GenerateTextUsingAutoencodersExample.rar)
+
+
 # Class Tasks 
 
 Please visit: [github.com/info-ruc/web21projects](https://github.com/info-ruc/web21projects/blob/main/webtasks.md)
