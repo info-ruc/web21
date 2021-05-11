@@ -27,6 +27,7 @@ MultiLabel Classification with GRU [slide](https://info-ruc.github.io/web21/mult
 
 AutoEncoder [slide](https://info-ruc.github.io/web21/ae.pdf) [rar](https://github.com/info-ruc/web21/blob/master/GenerateTextUsingAutoencodersExample.rar)
 
+Generative Adversarial Network [slide](https://info-ruc.github.io/web21/gan.pdf) [rar](https://github.com/info-ruc/web21/blob/master/gan.rar)
 
 # Class Tasks 
 
