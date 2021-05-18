@@ -29,6 +29,8 @@ AutoEncoder [slide](https://info-ruc.github.io/web21/ae.pdf) [rar](https://githu
 
 Generative Adversarial Network [slide](https://info-ruc.github.io/web21/gan.pdf) [rar](https://github.com/info-ruc/web21/blob/master/gan.rar)
 
+Graph Convolutional Network [slide](https://info-ruc.github.io/web21/gcn.pdf) [rar](https://github.com/info-ruc/web21/blob/master/gcn.rar)
+
 # Class Tasks 
 
 Please visit: [github.com/info-ruc/web21projects](https://github.com/info-ruc/web21projects/blob/main/webtasks.md)
