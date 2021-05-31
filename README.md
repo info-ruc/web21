@@ -33,6 +33,8 @@ Graph Convolutional Network [slide](https://info-ruc.github.io/web21/gcn.pdf) [r
 
 Audio Processing [slide](https://info-ruc.github.io/web21/audio.pdf) [rar](https://github.com/info-ruc/web21/blob/master/audio.rar)
 
+Video Processing [slide](https://info-ruc.github.io/web21/video.pdf) [rar](https://github.com/info-ruc/web21/blob/master/video.rar)
+
 # Class Tasks 
 
 Please visit: [github.com/info-ruc/web21projects](https://github.com/info-ruc/web21projects/blob/main/webtasks.md)
